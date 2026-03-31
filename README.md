@@ -31,17 +31,6 @@ ApiSentinel 是一个开箱即用的轻量级 API 监控平台。无需复杂配
 - 📋 **历史记录** — 查看每个接口的历史检查记录，支持分页
 - 🐳 **Docker 一键部署** — 提供完整的 Docker Compose 配置
 
-### 🖼️ 界面预览
-
-> Dashboard 总览
-> ![Dashboard](docs/screenshots/dashboard.png)
-
-> 接口管理
-> ![API List](docs/screenshots/api-list.png)
-
-> 接口详情
-> ![API Detail](docs/screenshots/api-detail.png)
-
 ### 🚀 快速开始
 
 #### 方式一：Docker Compose（推荐）
